@@ -1,0 +1,15 @@
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/obj/Debug/net6.0/Lab_Objects.csproj.AssemblyReference.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/obj/Debug/net6.0/Lab_Objects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/obj/Debug/net6.0/Lab_Objects.AssemblyInfoInputs.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/obj/Debug/net6.0/Lab_Objects.AssemblyInfo.cs
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/obj/Debug/net6.0/Lab_Objects.csproj.CoreCompileInputs.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/bin/Debug/net6.0/Lab_Objects
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/bin/Debug/net6.0/Lab_Objects.deps.json
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/bin/Debug/net6.0/Lab_Objects.runtimeconfig.json
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/bin/Debug/net6.0/Lab_Objects.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/bin/Debug/net6.0/Lab_Objects.pdb
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/obj/Debug/net6.0/Lab_Objects.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/obj/Debug/net6.0/refint/Lab_Objects.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/obj/Debug/net6.0/Lab_Objects.pdb
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/obj/Debug/net6.0/Lab_Objects.genruntimeconfig.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Lab_Objects/Lab_Objects/obj/Debug/net6.0/ref/Lab_Objects.dll

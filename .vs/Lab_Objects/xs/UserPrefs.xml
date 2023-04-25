@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A5FF893E-6A05-4BF6-BA87-443CC9F1D08D}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab__Objects PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab_Objects/Program.cs">
+    <Files>
+      <File FileName="Lab_Objects/Program.cs" Line="27" Column="39" />
+      <File FileName="Lab_Objects/Wallet.cs" Line="17" Column="11" />
+      <File FileName="Lab_Objects/Card.cs" Line="7" Column="12" />
+      <File FileName="Lab_Objects/WalletStore.cs" Line="27" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
